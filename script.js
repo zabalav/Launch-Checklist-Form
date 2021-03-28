@@ -44,7 +44,7 @@ window.addEventListener('load', function(){
                      <li style=color:red>Number of Moons: ${randomPlanet.moons}</li>
                   </ol>
                   <img src="${randomPlanet.image}">
-               `;
+                  `;
             });
          });
       };
