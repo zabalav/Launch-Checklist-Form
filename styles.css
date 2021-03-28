@@ -1,5 +1,16 @@
+body {
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.ALXyU8tuT7ykEiw4VNHpnwHaEK&pid=Api&P=0&w=300&h=300");
+    background-size: 50% 50%;
+    background-color: darkblue;
+}
+   
 h1 {
+    background-color: #ECF0F1;
     text-align: center;
+    margin: 50px auto;
+    width: 35%;
+    border: 3px solid black;
+    padding: 10px;
 }
 
 div {
@@ -11,6 +22,7 @@ div {
 }
 
 #launchForm {
+    background-image: url("https://nypost.com/wp-content/uploads/sites/2/2017/09/feature.jpg?quality=80&strip=all&w=618&h=410&crop=1");
     background-color: #ECF0F1;
     text-align: center;
     margin: auto;
@@ -34,6 +46,9 @@ div {
 }
 
 #missionTarget {
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/809928961038935770/D68E07CBDE4008E48C7B1F382879427DFA50C13C/");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-color: #ECF0F1;
     text-align: center;
     margin: 50px auto;
